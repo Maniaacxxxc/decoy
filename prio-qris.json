@@ -1,15 +1,10 @@
 {
-    "family_name": "myPRIO X Unlimited",
-    "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
-    "is_enterprise": false,
-    "migration_type": "NONE",
-    "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-    "option_name": "myPRIO X Unlimited",
-    "order": 4,
-    "price": 55000
-
+    "family_name": "Conference",
+    "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+    "is_enterprise": true,
+    "migration_type": "PRIOH_TO_PRIO",
+    "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+    "option_name": "Conference 2GB",
+    "order": 1,
+    "price": 2000
 }
-
-
-
-
