@@ -1,14 +1,15 @@
 {
-    "family_name": "Vidio",
-    "family_code": "b72a709a-cf8e-41a2-a0e1-eab2af4b3116",
-    "is_enterprise": true,
+    "family_name": "myPRIO X Unlimited",
+    "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+    "is_enterprise": false,
     "migration_type": "NONE",
-    "variant_code": "0550f1e2-06ef-4420-bc68-6b01abc880e6",
-    "option_name": "Mobile",
-    "order": 6,
-    "price": 6600
+    "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+    "option_name": "myPRIO X Unlimited",
+    "order": 4,
+    "price": 55000
 
 }
+
 
 
 
