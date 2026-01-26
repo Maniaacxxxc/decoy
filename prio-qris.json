@@ -1,11 +1,12 @@
 {
-    "family_name": "Conference",
+    "family_name": "Vidio",
     "family_code": "b72a709a-cf8e-41a2-a0e1-eab2af4b3116",
-    "is_enterprise": true,
+    "is_enterprise": false,
     "migration_type": "PRIOH_TO_PRIO",
     "variant_code": "0550f1e2-06ef-4420-bc68-6b01abc880e6",
-    "option_name": "Conference 2GB",
+    "option_name": "Mobile",
     "order": 6,
-    "price": 2000
+    "price": 6600
 
 }
+
