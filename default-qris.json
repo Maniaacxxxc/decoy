@@ -1,11 +1,12 @@
 {
-    "family_name": "",
-    "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+    "family_name": "Night Quota",
+    "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
     "is_enterprise": false,
     "migration_type": "NONE",
     "variant_name": "",
-    "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-    "option_name": "",
-    "order": 27,
-    "price": 1000
+    "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+    "option_name": "EWALLET 1.2k",
+    "order": 1,
+    "price": 1200
+
 }
