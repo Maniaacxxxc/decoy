@@ -1,10 +1,11 @@
 {
-    "family_name": "Umrah Plus",
-    "family_code": "1c892fc3-7ed5-47cd-b94d-f529aadc670a",
+    "family_name": "XL PASS",
+    "family_code": "fff99b6b-5a5d-4ba4-a55b-38f6aca6f91d",
     "is_enterprise": null,
     "migration_type": null,
-    "variant_code": "11d84eda-77b6-4f5d-a798-a566676fb274",
-    "option_name": "Umrah Plus",
+    "variant_code": "6986897d-9f09-4651-ac24-6efdf3dbcf3d",
+    "option_name": "XL PASS",
     "order": 1,
-    "price": 350000
+    "price": 800000
 }
+
